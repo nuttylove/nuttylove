@@ -7,7 +7,7 @@
 <hr/>
 <p align="center">
   <img title="github stats" alt="Nuttlove GitHub stats" width="46%" src="https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=react&include_all_commits=true&count_private=true&layout=compact">
-  <img title="github stats" width="46%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react">
+  <img title="github stats" width="46%" height=206 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react">
 </p> 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&theme=react" width="47%" alt="chotika-pansila" />
