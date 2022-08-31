@@ -4,4 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=cobalt&hide_title=true&include_all_commits=true&count_private=true&langs_count=10)
+![Nuttlove GitHub stats](https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuttylove)](https://github.com/anuraghazra/github-readme-stats)
