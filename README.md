@@ -11,5 +11,4 @@
 </p> 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&theme=react" width="47%" alt="chotika-pansila" />
-</p> 
-  <img alt="Chotika Pansila's Activity Graph" width="47%" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nuttylove&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=react" />
+</p>
