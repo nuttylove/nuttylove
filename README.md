@@ -10,5 +10,5 @@
   <img title="github stats" width="43%" height=180 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react">
 </p> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&theme=react" width="45%" alt="chotika-pansila" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&theme=react" width="50%" alt="chotika-pansila" />
 </p>
