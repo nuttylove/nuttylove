@@ -1,13 +1,13 @@
 <div align="center" >
   
-#Hello 👋, I'm Chotika Pansila
-##A Girls who loves to Code💕
+  <h1>Hello 👋, I'm Chotika Pansila</h1>
+  <h3>A Girls who loves to Code💕</h3>
  
-<p><img align="center" alt="Coder GIF" height=270 src="https://github.com/nuttylove/nuttylove/blob/master/coders.gif?raw=true"/></p>
+<p><img align="center" alt="Coder GIF" src="https://github.com/nuttylove/nuttylove/blob/master/coders.gif?raw=true"/></p>
   
-<p><img alt="Nuttlove GitHub stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=react&include_all_commits=true&count_private=true&layout=compact"/>
+<div><img alt="Nuttlove GitHub stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=react&include_all_commits=true&count_private=true&layout=compact"/>
   
-<img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react"/></p>
+<img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react"/></div>
   
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&" alt="priya-shan" /></p>
   
