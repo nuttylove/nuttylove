@@ -1,3 +1,4 @@
+<div align="center" >
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
 
 ### CHOTIKA 👋
@@ -16,4 +17,13 @@
 <img alt="Chotika Pansila's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nuttylove&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=react" />
 
 </a>
+  <details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+</div>
+  
+</div>
 
