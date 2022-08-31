@@ -2,17 +2,15 @@
 <p align="center">( FULL STACK DAVELOPER )</p>
 <p align="center"><img align="center" alt="Coder GIF" height=250 src="https://github.com/nuttylove/nuttylove/blob/master/coders.gif?raw=true"/></p>
 <p align="center">A Girls who loves to Code💕</p>
-<h3 align="center"> MY SKILLS </h3>
 <p align="center">
 </p>
 <hr/>
-<h3 align="center"> MY GITHUB STATS </h3>
 <p align="center">
-  <img title="github stats" alt="Nuttlove GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=react&include_all_commits=true&count_private=true&layout=compact&line_height=27">
-  <img title="github stats" height="206" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react">
+  <img title="github stats" alt="Nuttlove GitHub stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=react&include_all_commits=true&count_private=true&layout=compact&line_height=27">
+  <img title="github stats" height="206" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react">
 </p> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&theme=react" alt="chotika-pansila" />
-  <img alt="Chotika Pansila's Activity Graph" height="200" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nuttylove&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&theme=react" width="45%" alt="chotika-pansila" />
+  <img alt="Chotika Pansila's Activity Graph" width="45%" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nuttylove&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=react" />
 </p> 
 
