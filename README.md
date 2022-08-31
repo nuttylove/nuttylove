@@ -6,11 +6,11 @@
 </p>
 <hr/>
 <p align="center">
-  <img title="github stats" alt="Nuttlove GitHub stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=react&include_all_commits=true&count_private=true&layout=compact&line_height=27">
-  <img title="github stats" height="206" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react">
+  <img title="github stats" alt="Nuttlove GitHub stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nuttylove&show_icons=true&theme=react&include_all_commits=true&count_private=true&layout=compact&line_height=27">
+  <img title="github stats" height="206" width="50%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttylove&langs_count=10&layout=compact&theme=react&line_height=27">
 </p> 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&theme=react" width="45%" alt="chotika-pansila" />
-  <img alt="Chotika Pansila's Activity Graph" width="45%" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nuttylove&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuttylove&theme=react" width="50%" alt="chotika-pansila" />
+  <img alt="Chotika Pansila's Activity Graph" width="50%" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=nuttylove&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=react" />
 </p> 
 
